@@ -22,14 +22,8 @@ avatar: https://avatars1.githubusercontent.com/u/55381088?s=400&u=cca94752bfcbae
 navigation:
   - name: Blog
     url: /
-  - name: About
-    url: /about
   - name: Archive
     url: /archive
-  - name: Tags
-    url: /tags
-  - name: Theme
-    url: https://github.com/dbstlr88
 
 # Pagination
 paginate: 5
